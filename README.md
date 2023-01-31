@@ -16,14 +16,16 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [MD.Seam Uddin](https://about.me/md.seamuddin), A versatile technological expert with two years of software engineering experience. I've worked with PHP, Python, Django, Javascript, and React to create multi-dimensional applications.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I've spent the last year and a half developing, improving, and introducing modules for ERP systems. During this time, I also learned a lot about the business flow of HRM, inventory, financial management, customer relationship management, and other areas.
+
+I'm always eager to learn new things. As a result, I am constantly looking for new topics to research, apply, and integrate.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](seamuddin2020@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
