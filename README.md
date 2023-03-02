@@ -45,7 +45,7 @@ I'm always eager to learn new things. As a result, I am constantly looking for n
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   25 hrs 6 mins   ██████████████████████▒░░   89.98 %
+
 JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
 JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 INI          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
