@@ -1,9 +1,5 @@
-### hey there 
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
+### Hey There 
 <br />
-
 hi, i'm [MD.Seam Uddin](https://about.me/md.seamuddin), A versatile technological expert with two years of software engineering experience. I've worked with PHP, Python, Django, Javascript, and React to create multi-dimensional applications.
 
 I've spent the last year and a half developing, improving, and introducing modules for ERP systems. During this time, I also learned a lot about the business flow of HRM, inventory, financial management, customer relationship management, and other areas.
