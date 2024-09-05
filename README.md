@@ -10,35 +10,20 @@ I'm always eager to learn new things. As a result, I am constantly looking for n
 - 💼 any freelance work? do reach, [email](seamuddin2020@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
-<!-- github stats starts here  -->
 
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seamuddin&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seamuddin&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seamuddin&theme=github_dark&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Motawash-Semeen&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Motawash-Semeen&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Motawash-Semeen&theme=github_dark&utcOffset=8)
 
 </div>
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```text
-
-JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-INI          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="buymeacoffee.com/?via=seamuddin2l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-Top Languages in my Github.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seamuddin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📈 my github stats
 
 ![Seam's GitHub stats](https://github-readme-stats.vercel.app/api?username=seamuddin&show_icons=true&theme=radical)
+
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="buymeacoffee.com/?via=seamuddin2l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
