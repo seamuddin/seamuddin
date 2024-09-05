@@ -6,8 +6,6 @@ I've spent the last year and a half developing, improving, and introducing modul
 
 I'm always eager to learn new things. As a result, I am constantly looking for new topics to research, apply, and integrate.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](seamuddin2020@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -16,8 +14,7 @@ I'm always eager to learn new things. As a result, I am constantly looking for n
 <!-- github stats starts here  -->
 
 <div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Motawash-Semeen&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Motawash-Semeen&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Motawash-Semeen&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seamuddin&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seamuddin&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seamuddin&theme=github_dark&utcOffset=8)
 
 </div>
 📊 **this week i spent my time on:**
