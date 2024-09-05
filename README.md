@@ -13,7 +13,7 @@ I'm always eager to learn new things. As a result, I am constantly looking for n
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Motawash-Semeen&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Motawash-Semeen&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Motawash-Semeen&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seamuddin&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seamuddin&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seamuddin&theme=github_dark&utcOffset=8)
 
 </div>
 
