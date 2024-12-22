@@ -26,4 +26,4 @@ I'm always eager to learn new things. As a result, I am constantly looking for n
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="buymeacoffee.com/seamuddin2l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/seamuddin2l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
